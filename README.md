@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/usman-mehmood-b80247415/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNc%2BTgetURk6%2FGEG995WDfw%3D%3D">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/xusman0091">
+  <a href="https://github.com/xusman0091/xusman0091/blob/main/README.md">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
