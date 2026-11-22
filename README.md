@@ -47,7 +47,7 @@ I'm **Usman Mehmood**, focused on **SOC Operations** — monitoring, detecting, 
 
 ### 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/usman-mehmood
+- LinkedIn: https://www.linkedin.com/in/usman-mehmood-b80247415/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BMdlr94SLTRqcOrzdWvXlDw%3D%3D
 - GitHub: github.com/xusman0091
 
 ---
