@@ -3,7 +3,7 @@
 <h3 align="center">SOC Analyst | Security Operations | SIEM • Threat Detection • Incident Response</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/usman-mehmood">
+  <a href="https://www.linkedin.com/in/usman-mehmood-b80247415/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BNc%2BTgetURk6%2FGEG995WDfw%3D%3D">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/xusman0091">
