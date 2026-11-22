@@ -43,6 +43,18 @@ I'm **Usman Mehmood**, focused on **SOC Operations** — monitoring, detecting, 
 - [ ] Practicing log analysis on real `auth.log` datasets
 - [ ] Learning Splunk SPL & KQL for threat hunting
 
+ ### 🧰 Technical Skills
+
+| Area | Tools |
+| --- | --- |
+| **SIEM** | Splunk, Wazuh, ELK Stack |
+| **SOC Operations** | Alert Triage, Incident Investigation, Log Analysis |
+| **Threat Detection** | Sysmon, Windows Defender, YARA, MITRE ATT&CK |
+| **Network Analysis** | Wireshark, Nmap |
+| **Web Security** | Burp Suite |
+| **OS & Scripting** | Linux, Python |
+
+
 ---
 
 ### 📫 Connect With Me
